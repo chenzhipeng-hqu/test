@@ -23,8 +23,6 @@ DEFS +=
 ################ source ################
 
 SRCS += main.c
-SRCS += a_test.c
-SRCS += b_test.c
 
 ################ library ################
 
